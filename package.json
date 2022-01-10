@@ -2,7 +2,7 @@
   "name": "gifmaker",
   "version": "0.0.1",
   "dependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "2.6.1",
     "gifencoder": "^2.0.1",
     "koa": "^2.13.4"
   }
