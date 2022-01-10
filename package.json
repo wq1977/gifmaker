@@ -1,4 +1,6 @@
 {
+  "name": "gifmaker",
+  "version": "0.0.1",
   "dependencies": {
     "canvas": "^2.8.0",
     "gifencoder": "^2.0.1",
