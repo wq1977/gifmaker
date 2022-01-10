@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "gifencoder": "^2.0.1",
+    "koa": "^2.13.4"
+  }
+}
