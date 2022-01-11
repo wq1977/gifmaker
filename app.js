@@ -38,7 +38,7 @@ const main = (ctx) => {
   encoder.addFrame(ctx);
 
   drawctx.font = txtFont;
-  const matrics = ctx.measureText(string);
+  const matrics = drawctx.measureText(string);
   const left =
     (WIDTH - matrics.actualBoundingBoxRight + matrics.actualBoundingBoxLeft) /
     2;
